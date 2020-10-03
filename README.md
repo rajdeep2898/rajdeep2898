@@ -58,7 +58,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://rajdeep2898.github.io
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr

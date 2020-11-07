@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://rajdeep2898.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-%231DA1F2.svg?&style=for-the-badge&logo=portfolio&logoColor=white&color=071A2C" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/portfolio-%231DA1F2.svg?&style=for-the-badge&logo=google-chrome&logoColor=white&color=071A2C" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/rajdeep-datta-18716b16b/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>

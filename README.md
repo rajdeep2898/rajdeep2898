@@ -61,7 +61,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibrayeen&langs_count=16&theme=highcontrast" width="40%" height="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep2898&langs_count=16&theme=highcontrast" width="40%" height="100%"/>
 
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rajdeep2898&show_icons=true&hide_border=true" />

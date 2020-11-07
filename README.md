@@ -35,8 +35,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31lecy6vvwkvuu4qswgthk3rpe4a)
 
-<br />
-<br />
+
 
 <h2> Languages and Tools:</h2>
 
@@ -57,6 +56,8 @@
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
+
 
 <!--<details>
   <summary>:zap: GitHub Stats</summary>

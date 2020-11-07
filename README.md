@@ -70,12 +70,6 @@
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeep2898&repo=Pathvisualizer&theme=tokyonight" width="45%" height="100%"/>](https://github.com/rajdeep2898/PathVisualizer)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeep2898&repo=Commute&theme=radical" width="45%" height="100%"/>](https://github.com/rajdeep2898/Commute)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeep2898&repo=pizza-ordering-chatbot&theme=vision-friendly-dark" width="45%" height="100%"/>](https://github.com/rajdeep2898/pizza-ordering-chatbot)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Accident-Prevention&theme=vision-friendly-dark" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Accident-Prevention)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Creation-Application&theme=blueberry" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Profile-Creation-Application)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Chatbot&theme=dark" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Chatbot)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Heart-Disease-Predictor&theme=midnight-purple" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Heart-Disease-Predictor)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Buffer-Cache-Simulation&theme=graywhite" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Buffer-Cache-Simulation)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=File-Transfer-Protocol&theme=buefy" width="45%" height="100%"/>](https://github.com/shoaibrayeen/File-Transfer-Protocol)
 
 
 [website]: https://rajdeep2898.github.io

@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, I'm Rajdeep - aka [rajdeep2898][website] 👋</h2>
+<h2 align="center"> Hi there, I'm <a href="http://rajdeep2898.github.io/">Rajdeep</a> 👋</h2>
 
 <p align="center">
 <br><img src="code.gif" width="600px"><br><br>

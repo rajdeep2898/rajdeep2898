@@ -63,7 +63,7 @@
   
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rajdeep2898&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide_rank=true" width="50%" height="60%"/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep2898&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep2898&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 

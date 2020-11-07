@@ -67,7 +67,7 @@
 
 ## Projects
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeep2898&repo=yoyo-pizza&theme=highcontrast" width="45%" height="100%">](https://github.com/rajdeep2898/yoyo-pizza)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeep2898&repo=Pathvisualizer&theme=tokyonight" width="45%" height="100%"/>](https://github.com/rajdeep2898/PathVisualizer)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeep2898&repo=Pathvisualizer&theme=flag-india" width="45%" height="100%"/>](https://github.com/rajdeep2898/PathVisualizer)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeep2898&repo=Commute&theme=radical" width="45%" height="100%"/>](https://github.com/rajdeep2898/Commute)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeep2898&repo=pizza-ordering-chatbot&theme=vision-friendly-dark" width="45%" height="100%"/>](https://github.com/rajdeep2898/pizza-ordering-chatbot)
 

@@ -3,7 +3,7 @@
 [![](https://gitwar.herokuapp.com/badge?username=rajdeep2898&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <p align="center">
-<br><img src="code.gif" width="600px"><br><br>
+<br><img src="code.gif" width="500px"><br><br>
 </p>
 
 <p align="center">

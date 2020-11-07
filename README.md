@@ -61,6 +61,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shoaibrayeen&count_private=true&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D&include_all_commits=true&hide_rank=true" width="90%" height="60%"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep2898&langs_count=16&theme=highcontrast" width="40%" height="100%"/>
 
 

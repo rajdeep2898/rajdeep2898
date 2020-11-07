@@ -1,5 +1,7 @@
 <h2 align="center"> Hi there👋, I'm <a href="http://rajdeep2898.github.io/">Rajdeep</a> 🙋‍♂️</h2>
 
+[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+
 <p align="center">
 <br><img src="code.gif" width="600px"><br><br>
 </p>
@@ -71,6 +73,12 @@
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeep2898&repo=Commute&theme=flag-india" width="45%" height="100%"/>](https://github.com/rajdeep2898/Commute)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeep2898&repo=pizza-ordering-chatbot&theme=vision-friendly-dark" width="45%" height="100%"/>](https://github.com/rajdeep2898/pizza-ordering-chatbot)
 
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 [website]: https://rajdeep2898.github.io
 [course]: http://vsCodeHero.com

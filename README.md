@@ -66,7 +66,7 @@
   </div>
 </details>-->
 
-<h2>⚡ GitHub Stats</h2>
+### ⚡ GitHub Stats
   <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeep2898&count_private=true&show_icons=true&theme=yeblu&include_all_commits=true&hide_rank=true" width="50%" height="60%"/>
   </div>

@@ -1,7 +1,7 @@
 ### Hi there, I'm Rajdeep - aka [rajdeep2898][website] 👋
 
 <p align="center">
-<br><img src="code.gif" width="500px"><br><br>
+<br><img src="code.gif" width="635px"><br><br>
 </p>
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)

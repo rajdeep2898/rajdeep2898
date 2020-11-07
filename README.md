@@ -4,10 +4,18 @@
 <br><img src="code.gif" width="600px"><br><br>
 </p>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sharmi-1999.github.io/Portfolio/)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:sm2244@it.jgec.ac.in)
-[![Linkedin](https://img.shields.io/badge/-Sharmistha-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sharmistha-mandal-636744194/)
-[![Instagram](https://img.shields.io/badge/-I'msharmistha-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/sharmistha.___/)
+<p align="center">
+  <a href="https://rajdeep2898.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-%231DA1F2.svg?&style=for-the-badge&logo=portfolio&logoColor=white&color=071A2C" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rajdeep-datta-18716b16b/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  </a>
+  <a href="https://www.instagram.com/rajdeep_datta_/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+</p>
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->

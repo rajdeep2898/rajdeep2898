@@ -60,12 +60,17 @@
 
 ---
 
-<details>
+<!--<details>
   <summary>:zap: GitHub Stats</summary>
   <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeep2898&count_private=true&show_icons=true&theme=yeblu&include_all_commits=true&hide_rank=true" width="50%" height="60%"/>
   </div>
-</details>
+</details>-->
+
+<summary>:zap: GitHub Stats</summary>
+  <div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeep2898&count_private=true&show_icons=true&theme=yeblu&include_all_commits=true&hide_rank=true" width="50%" height="60%"/>
+  </div>
 
 ## Projects 💻
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeep2898&repo=yoyo-pizza&theme=highcontrast" width="45%" height="100%">](https://github.com/rajdeep2898/yoyo-pizza)

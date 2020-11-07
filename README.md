@@ -1,5 +1,7 @@
 <h2 align="center"> Hi there👋, I'm <a href="http://rajdeep2898.github.io/">Rajdeep</a> 🙋‍♂️</h2>
 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+
 [![](https://gitwar.herokuapp.com/badge?username=rajdeep2898&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <p align="center">

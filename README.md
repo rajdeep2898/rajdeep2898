@@ -3,7 +3,7 @@
 [![](https://gitwar.herokuapp.com/badge?username=rajdeep2898&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <p align="center">
-<br><img src="code.gif" width="500px"><br><br>
+<br><img src="code.gif" width="500px"><br/><br/>
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeep2898&count_private=true&show_icons=true&theme=yeblu&include_all_commits=true&hide_rank=true" width="50%" height="60%"/>
   </div>
 </details>-->
-<h2>Git Status:</h2>
+<h2>⚡ Git Status:</h2>
   <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeep2898&count_private=true&show_icons=true&theme=yeblu&include_all_commits=true&hide_rank=true" width="50%" height="60%"/>
   </div>

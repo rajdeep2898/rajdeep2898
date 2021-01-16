@@ -26,7 +26,7 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 My resume is available at [rajdeep2898.github.io][resume]
+- 👯 My resume is available at [rajdeep2898.github.io/Portfolio][resume]
 - 🥅 2020 Goals:Learn and Excel in Fullstack Development(MERN Stack).
 - 🔭 Contact me at rajdeep2898@gmail.com
 
